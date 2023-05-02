@@ -8,6 +8,10 @@
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 	<br>
+ <label for="email">Email Id</label>
+    <input type="text" id="email" name="email" placeholder="email..">
+    <br>
+
     <label for="country">Country</label>
     <select id="country" name="country">
       <option value="australia">Australia</option>
